@@ -258,7 +258,7 @@ img {
     background: #fec63e;
 }
 
-.portifolio_lista li:last-child {
+.portifolio_lista div:last-of-type {
     margin-top: 20px;
 }
 
